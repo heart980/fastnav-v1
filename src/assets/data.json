@@ -7,8 +7,8 @@
                 "title": "ChatGPT",
                 "url": "https://chat.openai.com",
                 "desc": "最热门的AI聊天机器人应用",
-                "logo": "assets/images/logos/480px-ChatGPT_logo.svg.png",
-                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_13-51-17.png"
+                "logo": "D:/ai/fastnav-v1-main/src/assets/images/logos/chatgpt.png",
+                "screenshot": "D:/ai/fastnav-v1-main/src/assets/images/logos/chatgpt.png"
             },
             {
                 "title": "谷歌Bard",
