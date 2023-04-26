@@ -14,43 +14,50 @@
                 "title": "谷歌Bard",
                 "url": "https://bard.google.com/",
                 "desc": "Google 面向公众推出由 LaMDA 提供支持的实验性对话式 AI 服务，目前开放了测试申请，美国和英国用户可以加入候选名单，打开 Bard 官网即可测试申请.目前 Bard 不支持中文，Bard 可以联网搜索，感兴趣的可以使用美国或者英国 IP 网络打开官网进行申请测试。",
-                "logo": "assets/images/web/google.svg",
-                "screenshot": "assets/images/web/zhitu-des/screenshot_2023-04-03_12-53-49.png"
+                "logo": "assets/images/logos/bard.png",
+                "screenshot": "assets/images/logos/bard.png"
             },
             {
                 "title": "ChatYoutube",
                 "url": "https://chatyoutube.com",
                 "desc": "贴Youtube视频地址，就可以针对视频进行ChatGPT聊天讨论了",
-                "logo": "assets/images/logos/268ed-chatyoutube.com.png",
-                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_13-29-51.png"
+                "logo": "assets/images/logos/chat youtube .png",
+                "screenshot": "assets/images/logos/chat youtube .png"
             },
             {
                 "title": "CharactorAI",
                 "url": "https://beta.character.ai",
                 "desc": "和AI生成的人物聊天对话",
-                "logo": "assets/images/logos/a744a-beta.character.ai.png",
-                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_13-31-43.png"
+                "logo": "assets/images/logos/character.png",
+                "screenshot": "assets/images/logos/character.png"
             },
             {
                 "title": "charactorGPT",
                 "url": "https://alethea.ai/characterGPT.html",
                 "desc": "AI生成虚拟人",
-                "logo": "assets/images/logos/48286-alethea.ai.png",
-                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_14-35-49.png"
+                "logo": "assets/images/logos/charactergpt.png",
+                "screenshot": "assets/images/logos/charactergpt.png"
             },
             {
                 "title": "cody",
                 "url": "https://www.meetcody.ai",
                 "desc": "商业人工智能助理",
-                "logo": "assets/images/logos/22198-www.meetcody.ai.png",
-                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_18-04-45.png"
+                "logo": "assets/images/logos/cody.png",
+                "screenshot": "assets/images/logos/cody.png"
             },
             {
                 "title": "Soofy",
                 "url": "https://soofy.io",
                 "desc": "通过ai，帮助提高交流水平，学习新语言",
-                "logo": "assets/images/logos/7cfa6-soofy.io.png",
-                "screenshot": "assets/images/web/zhitu-des/screen_m_2023-04-02_14-41-37.png"
+                "logo": "assets/images/logos/soofy.png",
+                "screenshot": "assets/images/logos/soofy.png"
+            },
+            {
+                "title": "ai",
+                "url": "https://ai-lk.cn",
+                "desc": "最热门的无效翻墙AI聊天机器人应用",
+                "logo": "assets/images/logos/chatgpt.png",
+                "screenshot": "assets/images/logos/chatgpt.png"
             }
         ]
     },
