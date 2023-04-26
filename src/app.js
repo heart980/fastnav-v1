@@ -2,7 +2,7 @@ export default {
     /*网站设置*/
     title:'AI - 快速导航',  //网站标题
     logoText:'LK',    //网站文字logo,不填则不显示
-    navStyle:1,      //网址导航样式：1经典样式，2卡片样式
+    navStyle:2,      //网址导航样式：1经典样式，2卡片样式
     connect:{       //右上角反馈按钮
         text:'反馈',
         href:'https://vika.cn/share/shr0ydKWGscvRnUCEfQqN'
